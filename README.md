@@ -1,6 +1,6 @@
 # Multi-omics Analysis Reveals Biomarkers that Contribute to Biological Age Rejuvenation in Response to Therapeutic Plasma Exchange
 
-**Link to the paper:** [Multi-omics Analysis Reveals Biomarkers that Contribute to Biological Age Rejuvenation in Response to Therapeutic Plasma Exchange](https://www.medrxiv.org/content/10.1101/2024.08.02.24310303v1)
+**Link to the paper:** [Multi-omics Analysis Reveals Biomarkers that Contribute to Biological Age Rejuvenation in Response to Therapeutic Plasma Exchange](https://onlinelibrary.wiley.com/doi/10.1111/acel.70103)
 
 ## Repository Structure
 
