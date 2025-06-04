@@ -9,6 +9,3 @@
 
 - **data/**  
   This folder includes the processed omics data, specifically focused on epigenetic changes observed at baseline and after treatment interventions.
-
-- **output/**  
-  This folder contains the figures and tables generated from the study, based on the multi-omics analysis performed on the processed data.
